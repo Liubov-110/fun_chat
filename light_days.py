@@ -1,6 +1,8 @@
 import random
 from prettytable import PrettyTable
 from days_detailed import week, day_night_parts
+from days_detailed import suggestions
+from colorama import Fore, Back, Style
 
 
 def fill_timetable():

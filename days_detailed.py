@@ -10,3 +10,5 @@ day_night_parts = {
 }
 
 suggestions = [day_night_parts.values().mapping[p][1] for p in day_night_parts.keys()]
+
+added_todos = []
